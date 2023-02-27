@@ -1,8 +1,8 @@
 # CPlusPlusGrocerProj
 
-This project involved opening a text file with various foods and produce. I need to organize that data and take inventory of each item. Then I had to quantify that data by number and by histogram. 
+This project involved opening a text file with various foods and produce. I needed to organize that data and take inventory of each item. Then I had to quantify that data by number and by histogram. 
 
-The loops I created for the histogram were by best aspect of the project. I needed to create a nested loop that would add characters to a line for every item there was. Then skip to the next food/line once every character was printed. 
+The loops I created for the histogram were my best aspect of the project. I needed to create a nested loop that would add characters to a line for every item there was. Then skip to the next food/line once every character was printed. 
 
 I regret not naming the initial text file properly and I also wish that I organized the characters on the histogram better. I would have out an additional space between each character. 
 
